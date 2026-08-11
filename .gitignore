@@ -1,0 +1,47 @@
+# dependencies
+node_modules
+.venv
+venv
+env
+
+# output
+out
+dist
+20??/
+temp.pdf
+*.tgz
+
+# code coverage
+coverage
+*.lcov
+
+# logs
+logs
+*.log
+report.*.json
+
+# dotenv environment variable files
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# caches
+.eslintcache
+.cache
+__pycache__/
+*.pyc
+*.tsbuildinfo
+
+# IntelliJ based IDEs
+.idea
+
+# VS Code
+.vscode
+
+# Windows
+Thumbs.db
+
+# Finder (MacOS) folder config
+.DS_Store

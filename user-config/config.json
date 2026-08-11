@@ -1,0 +1,13 @@
+{
+  "year": 2026,
+  "name": "Name, Vorname",
+  "department": "Referat xy",
+  "signatureImage": "signature.png",
+  "maxHoursPerMonth": 10,
+  "activities": [
+    { "name": "Activity 1", "weight": 4 },
+    { "name": "Activity 2", "weight": 3 },
+    { "name": "Activity 3", "weight": 2 },
+    { "name": "Activity 4", "weight": 1 }
+  ]
+}

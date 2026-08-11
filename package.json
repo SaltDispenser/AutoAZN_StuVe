@@ -1,0 +1,19 @@
+{
+  "name": "arbeitszeiten",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node --experimental-strip-types auto-arbeitszeiten.ts",
+    "ui": "python config-ui.py"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "feiertagejs": "^1.5.1",
+    "pdf-lib": "^1.17.1"
+  }
+}
