@@ -4,6 +4,13 @@
 
 Edit `user-config/config.json` for the year, user-specific values, weighted activities, and signature image. Put the signature image in the same folder and reference it via `signatureImage`.
 
+## Dependencies
+
+You need the [feiertagejs npm Module](https://github.com/sfakir/feiertagejs). Install it with
+```bash
+npm install feiertagejs
+```
+
 ## UI
 
 ```bash
